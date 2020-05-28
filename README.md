@@ -1,3 +1,8 @@
 # Emojifier-Project
-![GitHub Logo]
-(images/ss1.png)
+Web Application deployed on localhost using flask
+
+
+![WIP Screenshot](images/ss1.png?raw=true)
+
+![WIP Screenshot](images/ss1.png?raw=true)
+
